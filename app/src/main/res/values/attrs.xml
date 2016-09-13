@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PullBezierZoomView">
+        <attr name="headerView" format="reference" />
+        <attr name="contentView" format="reference" />
+        <attr name="zoomView" format="reference" />
+        <attr name="isHeaderParallax" format="boolean" />
+        <attr name="isBezier" format="boolean" />
+        <attr name="bezierColor" format="color" />
+        <attr name="maxBezierHeight" format="dimension" />
+    </declare-styleable>
+</resources>
